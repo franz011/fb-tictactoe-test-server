@@ -1,0 +1,8 @@
+{
+  "name": "Instant Game Backend Template",
+  "description": "A sample backend solution for Instant Games",
+  "repository": "https://github.com/franz011/fb-tictactoe-test-server",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "fbinstant"],
+  "image": "heroku/nodejs"
+}
